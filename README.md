@@ -27,10 +27,11 @@ Overview: This project showcases my data analysis skills and ability to tackle r
 
 Key Steps:
 
-- Data Extraction from SQL: Extracted raw data from SQL database to lay the groundwork for analysis.
-- Data Cleaning and Sorting in Excel: Meticulously cleaned and sorted data in Excel to ensure accuracy and relevance.
-- Creating Interactive Dashboards in Power BI: Utilized Power BI to craft interactive dashboards for actionable insights.
-- SQL Comments for Realistic Scenarios: Included SQL comments mimicking real-world scenarios to enhance authenticity, such as queries from a Sales Director to Regional Sales Heads.
+  Data Extraction from SQL: Extracted raw data from SQL database to lay the groundwork for analysis.
+  Data Cleaning and Sorting in Excel: Meticulously cleaned and sorted data in Excel to ensure accuracy and relevance.
+  Creating Interactive Dashboards in Power BI: Utilized Power BI to craft interactive dashboards for actionable insights.
+  SQL Comments for Realistic Scenarios: Included SQL comments mimicking real-world scenarios to enhance authenticity, such as queries 
+  from a Sales Director to Regional Sales Heads.
 
 - Title: UNCOVERING POTENTIAL ELECTORAL BOND SCAM IN INDIA
 
@@ -38,6 +39,6 @@ Overview: This project focuses on analyzing the potential loopholes and scams in
 
 Key Highlights:
 
-- Exploratory Data Analysis (EDA): Conducted EDA to identify loopholes and suspicious patterns in the electoral bond system, highlighting discrepancies in bond purchases and encashments.
-- Machine Learning Prediction: Utilized machine learning algorithms to predict the future purchase denomination by specific purchasers, providing insights into potential future trends and patterns.
-- This project aims to shed light on the flaws within the electoral bond system and contribute to discussions on improving transparency and accountability in political financing.
+Exploratory Data Analysis (EDA): Conducted EDA to identify loopholes and suspicious patterns in the electoral bond system, highlighting discrepancies in bond purchases and encashments.
+Machine Learning Prediction: Utilized machine learning algorithms to predict the future purchase denomination by specific purchasers, providing insights into potential future trends and patterns.
+This project aims to shed light on the flaws within the electoral bond system and contribute to discussions on improving transparency and accountability in political financing.
