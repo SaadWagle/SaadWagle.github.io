@@ -1,4 +1,4 @@
-# Data Scientist
+# Aspiring Data Scientist
 
 ### Education
 - Masters in Data science and analytics [2023-2024]
