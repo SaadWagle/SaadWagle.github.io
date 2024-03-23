@@ -42,3 +42,6 @@ Key Highlights:
 Exploratory Data Analysis (EDA): Conducted EDA to identify loopholes and suspicious patterns in the electoral bond system, highlighting discrepancies in bond purchases and encashments.
 Machine Learning Prediction: Utilized machine learning algorithms to predict the future purchase denomination by specific purchasers, providing insights into potential future trends and patterns.
 This project aims to shed light on the flaws within the electoral bond system and contribute to discussions on improving transparency and accountability in political financing.
+
+### GitHub Link to Projects
+- [My Projects](https://github.com/SaadWagle/My_Projects)
