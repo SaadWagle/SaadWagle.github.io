@@ -33,7 +33,7 @@ Key Steps:
   SQL Comments for Realistic Scenarios: Included SQL comments mimicking real-world scenarios to enhance authenticity, such as queries 
   from a Sales Director to Regional Sales Heads.
 
-- Title: UNCOVERING POTENTIAL ELECTORAL BOND SCAM IN INDIA
+- Title: DECODING ELECTORAL BONDS & UNDERSTANDING CJI's RULING
 
 Overview: This project focuses on analyzing the potential loopholes and scams in India's electoral bond system, revealing how political parties exploit the system for fundraising. Through exploratory data analysis (EDA), I uncovered suspicious activities, such as numerous electoral bonds purchased by relatively small corporate entities and a significant disparity between the number of bonds purchased and encashed over the past five years.
 
