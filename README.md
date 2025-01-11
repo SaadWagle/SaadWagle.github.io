@@ -5,6 +5,14 @@
 - Bachelor's of Commerce with coursework in Computer System & Application [2020-2023]
 
 ### Work Experience
+
+### Data Analyst @Revnomix Solutions [August 2024 - Present]
+- Automated manual data extraction by leveraging AI tools.
+- Performed data cleaning and Validation.
+- Debugged code to optimize ETL and solved errors.
+- Created dashboards to provide insights for data-driven decisions.
+- Extracted data from SQL databases for analysis and reporting.
+
 ### Data Analyst Intern @ JustDial [Oct 2023 - Dec 2023]
 - Conducted comprehensive data cleaning in Excel, addressing null values and ensuring data deduplication.
 - Assisted in data collection through Python scripts via web scraping, analyzing patterns effectively.
@@ -13,12 +21,14 @@
 - Created impactful Power BI dashboards and graphs to enhance data-driven decision-making processes.
 
 ### Additional Courses/Achievements
+- Data Analytics with Python (IBM)
 - Microsoft Advance Excel (Udemy)
 - Essentials of Power BI (Microsoft)
 - 3 Star Hackerrank SQL
 - SQL (IT Vedant / Udemy)
-- Python Programming (Guvi)
 - AI for India (NSDC & GUVI)
+- Prompt Engineering for ChatGPT (Great Learning)
+- Automation for Python (Great Learning)
   
 ### Projects
 - Title: BRINGING DATA TO LIFE: CRAFTING REALISTIC SCENARIOS
