@@ -1,7 +1,7 @@
 # Aspiring Data Scientist
 
 ### Education
-- Masters in Data science and analytics [2023-2024]
+- Advance Certification in Data science and analytics [2023-2024]
 - Bachelor's of Commerce with coursework in Computer System & Application [2020-2023]
 
 ### Work Experience
