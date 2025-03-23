@@ -1,6 +1,6 @@
 # Data Analyst
 
-### Education
+### Education & Courses
 - Advance Certification in Data science and analytics (IBM) [2023-2024]
 - Bachelor's of Commerce with coursework in Computer System & Application (Mumbai University) [2020-2023]
 
