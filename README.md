@@ -1,17 +1,20 @@
-# Aspiring Data Scientist
+# Data Analyst
 
 ### Education
-- Advance Certification in Data science and analytics [2023-2024]
-- Bachelor's of Commerce with coursework in Computer System & Application [2020-2023]
+- Advance Certification in Data science and analytics (IBM) [2023-2024]
+- Bachelor's of Commerce with coursework in Computer System & Application (Mumbai University) [2020-2023]
 
 ### Work Experience
 
 ### Data Analyst @Revnomix Solutions [August 2024 - Present]
-- Automated manual data extraction by leveraging AI tools.
-- Performed data cleaning and Validation.
-- Debugged code to optimize ETL and solved errors.
-- Created dashboards to provide insights for data-driven decisions.
-- Extracted data from SQL databases for analysis and reporting.
+- Led the revival of a critical tool, managing a team of three to
+  successfully reverse-engineer and optimize its ETL process using
+  Python and data modelling using Power BI.
+- Debugged ETL code, resolved errors, and performed data mapping.
+- Extracted, analyzed, and validated SQL database data to generate insights.
+- Automated manual data extraction by leveraging AI tools cutting time by 40%.
+- Utilized Python for Data Analysis, cleaning and validation.
+- Developed dashboards to provide insights for data-driven decisions.
 
 ### Data Analyst Intern @ JustDial [Oct 2023 - Dec 2023]
 - Conducted comprehensive data cleaning in Excel, addressing null values and ensuring data deduplication.
