@@ -1,12 +1,27 @@
 # Data Analyst
 
-### Education & Courses
+### Education / Courses / License
+- Microsoft Certified Power BI Data Analyst
 - Advance Certification in Data science and analytics (IBM) [2023-2024]
 - Bachelor's of Commerce with coursework in Computer System & Application (Mumbai University) [2020-2023]
 
 ### Work Experience
 
-### Data Analyst @Revnomix Solutions [August 2024 - Present]
+### Data Analyst @Lyra Payment Gateway [Aug 2025 - Present]
+- Automated manual reporting and data cleaning using Python scripts and Power Query, reducing
+processing time from hours to seconds and eliminating human errors.
+- Built automated workflows for regulatory reporting to banks, ensuring full compliance with
+Bank’s guidelines.
+- Automated data extraction from multiple servers using SSH tunneling and Python, removing L1
+dependency.
+- Designed and implemented an ETL for chargeback analysis, enabling detailed transaction drill- downs
+and identifying high-risk merchants for fraud prevention.
+- Developed Power BI dashboards to monitor chargeback trends, transaction patterns, and fraud
+alerts.
+- Set up the analytics function from scratch, creating scalable BI and automation workflows for future
+growth.
+
+### Data Analyst @Revnomix Solutions [Aug 2024 - Jul 2025]
 - Led the revival of a critical tool, managing a team of three to
   successfully reverse-engineer and optimize its ETL process using
   Python and data modelling using Power BI.
@@ -16,14 +31,8 @@
 - Utilized Python for Data Analysis, cleaning and validation.
 - Developed dashboards to provide insights for data-driven decisions.
 
-### Data Analyst Intern @ JustDial [Oct 2023 - Dec 2023]
-- Conducted comprehensive data cleaning in Excel, addressing null values and ensuring data deduplication.
-- Assisted in data collection through Python scripts via web scraping, analyzing patterns effectively.
-- Managed daily operational tasks, including utilizing SQL to extract data from the master database.
-- Conducted keyword analysis to identify high-value keywords for efficient data scraping.
-- Created impactful Power BI dashboards and graphs to enhance data-driven decision-making processes.
-
 ### Additional Courses/Achievements
+- Pl 300 (Microsoft)
 - Data Analytics with Python (IBM)
 - Microsoft Advance Excel (Udemy)
 - Essentials of Power BI (Microsoft)
