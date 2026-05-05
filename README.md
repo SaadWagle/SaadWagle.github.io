@@ -43,17 +43,24 @@ growth.
 - Automation for Python (Great Learning)
   
 ### Projects
-- Title: BRINGING DATA TO LIFE: CRAFTING REALISTIC SCENARIOS
+-TITLE: Email Sending Service (Microsoft Graph API + MSAL)
 
-Overview: This project showcases my data analysis skills and ability to tackle real-life scenarios through compelling dashboards. As part of my transition into a data analyst role, I undertook a solo project at Atliq Hardware, a hypothetical hardware parts supplier aiming to understand the Indian market.
+Built an independent automated mail service leveraging **Microsoft Graph API** with **MSAL authentication**:
 
-Key Steps:
+- Automated retrieval of the latest reports from defined sources.
+- Intelligent file size check with automatic compression if attachments exceed limits.
+- Custom email template integration for professional communication.
+- End-to-end workflow requiring minimal manual intervention.
 
-  Data Extraction from SQL: Extracted raw data from SQL database to lay the groundwork for analysis.
-  Data Cleaning and Sorting in Excel: Meticulously cleaned and sorted data in Excel to ensure accuracy and relevance.
-  Creating Interactive Dashboards in Power BI: Utilized Power BI to craft interactive dashboards for actionable insights.
-  SQL Comments for Realistic Scenarios: Included SQL comments mimicking real-world scenarios to enhance authenticity, such as queries 
-  from a Sales Director to Regional Sales Heads.
+Impact
+- Streamlined compliance and operational reporting workflows.
+- Reduced manual effort in distributing dashboards and analytics reports.
+- Demonstrated ability to integrate **Python automation** with enterprise tools like Microsoft Graph.
+
+Tech Stack
+- Python  
+- Microsoft Graph API  
+- MSAL (Microsoft Authentication Library)  
 
 - Title: DECODING ELECTORAL BONDS & UNDERSTANDING CJI's RULING
 
