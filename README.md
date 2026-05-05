@@ -47,22 +47,23 @@ growth.
 
 Built an independent automated mail service leveraging **Microsoft Graph API** with **MSAL authentication**:
 
-- Automated retrieval of the latest reports from defined sources.
-- Intelligent file size check with automatic compression if attachments exceed limits.
-- Custom email template integration for professional communication.
-- End-to-end workflow requiring minimal manual intervention.
+Automated retrieval of the latest reports from defined sources.
+Intelligent file size check with automatic compression if attachments exceed limits.
+Custom email template integration for professional communication.
+End-to-end workflow requiring minimal manual intervention.
 
 Impact
-- Streamlined compliance and operational reporting workflows.
-- Reduced manual effort in distributing dashboards and analytics reports.
-- Demonstrated ability to integrate **Python automation** with enterprise tools like Microsoft Graph.
+Streamlined compliance and operational reporting workflows.
+Reduced manual effort in distributing dashboards and analytics reports.
+Demonstrated ability to integrate **Python automation** with enterprise tools like Microsoft Graph.
 
-Tech Stack
-- Python  
-- Microsoft Graph API  
-- MSAL (Microsoft Authentication Library)  
+Tech Stack:
+Python  
+Microsoft Graph API  
+MSAL (Microsoft Authentication Library)  
 
-- Title: DECODING ELECTORAL BONDS & UNDERSTANDING CJI's RULING
+
+-Title: DECODING ELECTORAL BONDS & UNDERSTANDING CJI's RULING
 
 Overview: This project focuses on analyzing the potential loopholes and scams in India's electoral bond system, revealing how political parties exploit the system for fundraising. Through exploratory data analysis (EDA), I uncovered suspicious activities, such as numerous electoral bonds purchased by relatively small corporate entities and a significant disparity between the number of bonds purchased and encashed over the past five years.
 
